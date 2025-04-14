@@ -11,45 +11,44 @@
 </div>
 </div>
 
-<div class=container>
-
-<div class=container>
-<div class=row>
-<div class="entry-content">
-    <h4>General Co-Chairs</h4>
-    <ul>
-        <li><a target="_blank" rel="noopener noreferrer" href="https://www.cs.cityu.edu.hk/~minmli/">Minming Li</a>&nbsp;– City University of Hong Kong</li>
-        <li><a target="_blank" rel="noopener noreferrer" href="https://www.xia.ai/">Feng Xia</a>&nbsp;– RMIT University</li>
-    </ul>
-    <h4><strong>TPC Co-Chairs</strong></h4>
-    <ul>
-        <li><a target="_blank" rel="noopener noreferrer" href="https://www.ise.ufl.edu/alexander/">Alexander Semenov</a>&nbsp;– University of Florida</li>
-        <li><a target="_blank" rel="noopener noreferrer" href="https://anuragsg52.github.io/">Anurag Singh</a>&nbsp;– NIT Delhi</li>
-        <li><a target="_blank" rel="noopener noreferrer" href="https://people.tamu.edu/~tianbao-yang/">Tianbao Yang</a>&nbsp;– Texas A&amp;M University</li>
-    </ul>
-    <h4><strong>Tutorial Chair</strong></h4>
-    <ul>
-        <li><a target="_blank" rel="noopener noreferrer" href="https://sites.google.com/site/artembprokhorov">Artem Prokhorov</a>&nbsp;– University of Sydney</li>
-    </ul>
-    <h4><strong>Workshop Chair</strong></h4>
-    <ul>
-        <li><a target="_blank" rel="noopener noreferrer" href="https://yxu71.github.io/">Yi Xu</a>&nbsp;– Dalian University of Technology</li>
-    </ul>
-    <h4>Web Chair</h4>
-    <ul>
-        <li><a target="_blank" rel="noopener noreferrer" href="https://scholar.google.com/citations?user=kYSrBrwAAAAJ&amp;hl=vi&amp;oi=sra">Quan M. Nguyen</a>&nbsp;– University of Florida</li>
-    </ul>
-    <h4>Steering Committee</h4>
-    <ul>
-        <li><a target="_blank" rel="noopener noreferrer" href="https://www.cise.ufl.edu/~mythai/">My T. Thai</a> (<strong>Chair</strong>) – University of Florida</li>
-        <li><a target="_blank" rel="noopener noreferrer" href="https://scholar.google.com/citations?user=rRBNI6AAAAAJ&amp;hl=en">Kim-Kwang Raymond Choo</a>&nbsp;– University of Texas at San Antonio</li>
-        <li><a target="_blank" rel="noopener noreferrer" href="https://scholar.google.com/citations?user=vUmucpoAAAAJ&amp;hl=en">Sabrina Gaito</a>&nbsp;– University of Milan, Italy</li>
-        <li><a target="_blank" rel="noopener noreferrer" href="https://personal.utdallas.edu/~weiliwu/">Weili Wu</a>&nbsp;– University of Texas at Dallas</li>
-        <li><a target="_blank" rel="noopener noreferrer" href="https://scholar.google.com/citations?user=2X6fAZgAAAAJ&amp;hl=en">Zhi-Li Zhang</a>&nbsp;– University of Minnesota</li>
-    </ul>
-</div>
-</div>
-</div>
+<div class="wrap">
+  <div class="tc">
+  <h4 style="color:#3498db"><strong>Honorary Chairs&nbsp;</strong></h4>
+<p style="line-height:115%;margin:12.0pt 0in 12.0pt 40px;"><span style="font-family:Arial, sans-serif;font-size:14pt;"><span lang="EN" dir="ltr">Le Minh Ha, VIASM, Viet Nam</span></span></p>
+<p style="line-height:115%;margin:12.0pt 0in 12.0pt 40px;"><span style="font-family:Arial, sans-serif;font-size:14pt;"><span lang="EN" dir="ltr">Laurent El Ghaoui, VinUniversity, Viet Nam&nbsp;</span></span></p>
+<h4 style="color:#3498db"><strong>General Chairs&nbsp;</strong></h4>
+<p style="line-height:115%;margin:12.0pt 0in 12.0pt 40px;"><span style="font-family:Arial, sans-serif;font-size:14pt;"><span lang="EN" dir="ltr">Nguyen Ngoc Doanh, VinUniversity, Viet Nam&nbsp;</span></span></p>
+<h4 style="color:#3498db"><strong>Program Chairs&nbsp;</strong></h4>
+<p style="line-height:115%;margin:12.0pt 0in 12.0pt 40px;"><span style="font-family:Arial, sans-serif;font-size:14pt;"><span lang="EN" dir="ltr">Nguyen Ngoc Doanh, VinUniversity, Viet Nam&nbsp;</span></span></p>
+<p style="line-height:115%;margin:12.0pt 0in 12.0pt 40px;"><span style="font-family:Arial, sans-serif;font-size:14pt;"><span lang="EN" dir="ltr">Huynh Thi Thanh Binh, Hanoi University of Science and Technology, Viet Nam</span></span></p>
+<p style="line-height:115%;margin:12.0pt 0in 12.0pt 40px;"><span style="font-family:Arial, sans-serif;font-size:14pt;"><span lang="EN" dir="ltr">Nguyen Van Hop, HCM-VNU, Viet Nam</span></span></p>
+<p style="line-height:115%;margin:12.0pt 0in 12.0pt 40px;"><span style="font-family:Arial, sans-serif;font-size:14pt;"><span lang="EN" dir="ltr">Ha Minh Hoang, National Economics University, Viet Nam</span></span></p>
+<p style="line-height:115%;margin:12.0pt 0in 12.0pt 40px;"><span style="font-family:Arial, sans-serif;font-size:14pt;"><span lang="EN" dir="ltr">Tri Nguyen Huu, UMMISCO, French National Research Institute for Sustainable Development (IRD), France</span><strong><span style="background-color:white;color:#767676;font-size:10.5pt;line-height:115%;" lang="EN"></span></strong></span></p>
+<h4 style="color:#3498db"><strong>Publication Chairs&nbsp;</strong></h4>
+<p style="line-height:115%;margin:12.0pt 0in 12.0pt 40px;"><span style="font-family:Arial, sans-serif;font-size:14pt;"><span lang="EN" dir="ltr">Nguyen Ngoc Doanh, VinUniversity, Viet Nam&nbsp;</span></span></p>
+<p style="line-height:115%;margin:12.0pt 0in 12.0pt 40px;"><span style="font-family:Arial, sans-serif;font-size:14pt;"><span lang="EN" dir="ltr">Nguyen Van Hop, International University, HCM-VNU, Viet Nam</span></span></p>
+<h4 style="color:#3498db"><strong>Organizing and Local Chairs&nbsp;</strong></h4>
+<p style="line-height:115%;margin:12.0pt 0in 12.0pt 40px;"><span style="font-family:Arial, sans-serif;font-size:14pt;"><span lang="EN" dir="ltr">Le Duy Dung, VinUniversity, Viet Nam&nbsp;</span></span></p>
+<h4 style="color:#3498db"><strong>General Secretary</strong></h4>
+<p style="line-height:115%;margin:12.0pt 0in 12.0pt 40px;"><span style="font-family:Arial, sans-serif;font-size:14pt;"><span lang="EN" dir="ltr">Do Bui Khanh Linh, VinUniversity, Viet Nam&nbsp;</span></span></p>
+<h4 style="color:#3498db"><strong>Publicity Chairs&nbsp;</strong></h4>
+<p style="line-height:115%;margin:12.0pt 0in 12.0pt 40px;"><span style="font-family:Arial, sans-serif;font-size:14pt;"><span lang="EN" dir="ltr">Le Duy Dung, VinUniversity, Viet Nam&nbsp;</span></span></p>
+<p style="line-height:115%;margin:12.0pt 0in 12.0pt 40px;"><span style="font-family:Arial, sans-serif;font-size:14pt;"><span lang="EN" dir="ltr">Vu Duc Minh, National Economics University, Viet Nam</span></span></p>
+<h4 style="color:#3498db"><strong>Finance Chair</strong></h4>
+<p style="line-height:115%;margin:12.0pt 0in 12.0pt 40px;"><span style="font-family:Arial, sans-serif;font-size:14pt;"><span lang="EN" dir="ltr">Mai Anh Linh, VinUniversity, Viet Nam&nbsp;</span></span></p>
+<h4 style="color:#3498db"><strong>Technical Program Committees&nbsp;</strong></h4>
+<p style="line-height:115%;margin:12.0pt 0in 12.0pt 40px;"><span style="font-family:Arial, sans-serif;font-size:14pt;"><span lang="EN" dir="ltr">Le Duy Dung, VinUniversity, Viet Nam&nbsp;</span></span></p>
+<p style="line-height:115%;margin:12.0pt 0in 12.0pt 40px;"><span style="font-family:Arial, sans-serif;font-size:14pt;"><span lang="EN" dir="ltr">Nguyen Trung Thanh, National Economics University, Vietnam</span></span></p>
+<p style="line-height:115%;margin:12.0pt 0in 12.0pt 40px;"><span style="font-family:Arial, sans-serif;font-size:14pt;"><span lang="EN" dir="ltr">Vu Duc Minh, National Economics University, Vietnam</span></span></p>
+<p style="line-height:115%;margin:12.0pt 0in 12.0pt 40px;"><span style="font-family:Arial, sans-serif;font-size:14pt;"><span lang="EN" dir="ltr">Tran Hung, National Economics University, Vietnam</span></span></p>
+<p style="line-height:115%;margin:12.0pt 0in 12.0pt 40px;"><span style="font-family:Arial, sans-serif;font-size:14pt;"><span lang="EN" dir="ltr">Luong Van Thien, National Economics University, Vietnam</span></span></p>
+<p style="line-height:115%;margin:12.0pt 0in 12.0pt 40px;"><span style="font-family:Arial, sans-serif;font-size:14pt;"><span lang="EN" dir="ltr">Mai Tien, Singapore Management University, Singapore</span></span></p>
+<p style="line-height:115%;margin:12.0pt 0in 12.0pt 40px;"><span style="font-family:Arial, sans-serif;font-size:14pt;"><span lang="EN" dir="ltr">Nguyen Viet Hung, Clermont Auvergne University, France</span></span></p>
+<p style="line-height:115%;margin:12.0pt 0in 12.0pt 40px;"><span style="font-family:Arial, sans-serif;font-size:14pt;"><span lang="EN" dir="ltr">Nguyen Hong Thanh, Oregon University, USA</span></span></p>
+<p style="line-height:115%;margin:12.0pt 0in 12.0pt 40px;"><span style="font-family:Arial, sans-serif;font-size:14pt;"><span lang="EN" dir="ltr">Dang Thu Huong, Lancaster University, UK</span></span></p>
+<p style="line-height:115%;margin:12.0pt 0in 12.0pt 40px;"><span style="font-family:Arial, sans-serif;font-size:14pt;"><span lang="EN" dir="ltr">Nguyen Trung Thanh, Liverpool John Moores University, UK</span></span></p>
+  </div>
+  
 </div>
 <?php include('foot.html');?>
 </body>

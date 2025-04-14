@@ -2,9 +2,7 @@
 <html lang=en xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
 <?php include('head.html');?>
 <body>
-<header>
 <?php include('menu.html');?>
-</header>
 <div class="twelve columns banner">
 <div class="banner layer-1" id=banner-background></div>
 <div class="banner layer-2">

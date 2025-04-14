@@ -10,20 +10,9 @@
 <h1>Financial support</h1>
 </div>
 </div>
-<div class="container wrap">
-<div class="row">
-<div class="tc">
-
-<div class="entry-content">
-    
-    <ul>
-        <li>Authors with papers conducted in Vietnamese universities can apply for financial support by sending an email to <strong>csonetorg@gmail.com</strong> from the email used in paper submission. The email must include paper ID, paper title, and author’s affiliation.</li>
-        <li>We also have some limited support for non-authors from Vietnamese universities (especially students). Email to <strong>csonetorg@gmail.com</strong> for more details.</li>
-    </ul>
-</div>
-
-</div>
-</div>
+<div class="wrap">
+  <div class="tc">To Be Announced</div>
+  
 </div>
 <?php include('foot.html');?>
 </body>
