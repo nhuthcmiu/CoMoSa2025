@@ -32,7 +32,7 @@
 <div >
   <h5>Event Title: Conference on Optimization, Modeling, Simulation, and Analytics (COMOSA).</h5>
   
-  <h3 style="color:#3498db"> Objective:</h3>
+  <h3 style="color:#3498db"><strong> Objective:</strong></h3>
   <p>The primary objective of the workshop is to bring together researchers, practitioners, and students to discuss the latest advancements and applications in the fields of optimization, modeling, simulation, and analytics. The event aims to foster collaboration, share insights, and explore innovative solutions to real-world problems.
   </p>
   
@@ -44,7 +44,7 @@
 <div class=container>
   <div class=row>
   <div >
-<h3 style="color:#3498db"> Important dates:<br>
+<h3 style="color:#3498db"> <strong>Important dates:</strong><br>
 </h3>
 <ul>
   <li><strong>Paper Submission Deadline: June 01, 2025</strong></li>
@@ -59,7 +59,7 @@
 <div class=row>
 <div class="twelve columns" style>
 
-<h4  style="color:#3498db"><strong>Key Activities</strong></h4>
+<h5  style="color:#3498db"><strong>Key Activities</strong></h5>
 
 <div class="day">
         <h5>Day 1 (August 15, 2025):</h5>
@@ -111,7 +111,7 @@
         </ul>
     </div>
 
-<h4  style="color:#3498db"><strong>Target Audience:</strong></h4>
+<h5  style="color:#3498db"><strong>Target Audience:</strong></h5>
 	<ul>
 		<li>Researchers and academicians in operations research, analytics, and related fields.</li>
 		<li>Industry professionals working in optimization, supply chain, finance, and technology sectors.</li>
