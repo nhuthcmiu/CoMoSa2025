@@ -7,14 +7,13 @@
 </header>
 <div class="twelve columns section">
 <div class=container>
-<h1>Travel Information</h1>
+<h1>Travel Information:</h1>
 </div>
 </div>
 <div class="container wrap">
 <div class="row">
 <div class="tc">
 To Be Announced
-
 </div>
 </div>
 </div>
