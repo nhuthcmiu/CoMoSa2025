@@ -23,21 +23,24 @@
         <tbody>
             <tr>
                 <td>
-                    <figure class="image image_resized" style="width:77.76%;" data-ckbox-resource-id="ixJlplsHwBz0">
+                    <figure class="image image_resized" style="width:44.15%;" data-ckbox-resource-id="ixJlplsHwBz0">
                         <picture>
-                            <source srcset="https://ckbox.cloud/57564bc87a0608dfb9ca/assets/ixJlplsHwBz0/images/364.webp 364w,https://ckbox.cloud/57564bc87a0608dfb9ca/assets/ixJlplsHwBz0/images/728.webp 728w,https://ckbox.cloud/57564bc87a0608dfb9ca/assets/ixJlplsHwBz0/images/1092.webp 1092w,https://ckbox.cloud/57564bc87a0608dfb9ca/assets/ixJlplsHwBz0/images/1456.webp 1456w,https://ckbox.cloud/57564bc87a0608dfb9ca/assets/ixJlplsHwBz0/images/1820.webp 1820w,https://ckbox.cloud/57564bc87a0608dfb9ca/assets/ixJlplsHwBz0/images/2184.webp 2184w,https://ckbox.cloud/57564bc87a0608dfb9ca/assets/ixJlplsHwBz0/images/2548.webp 2548w,https://ckbox.cloud/57564bc87a0608dfb9ca/assets/ixJlplsHwBz0/images/2912.webp 2912w,https://ckbox.cloud/57564bc87a0608dfb9ca/assets/ixJlplsHwBz0/images/3276.webp 3276w,https://ckbox.cloud/57564bc87a0608dfb9ca/assets/ixJlplsHwBz0/images/3639.webp 3639w" sizes="(max-width: 3639px) 100vw, 3639px" type="image/webp"><img src="https://ckbox.cloud/57564bc87a0608dfb9ca/assets/ixJlplsHwBz0/images/3639.jpeg" width="3639" height="5087">
+                            <img src="img/andreaschaerf.jpg" width="280" height="390">
                         </picture>
                     </figure>
+                    <p style="text-align:center;"><span style="font-size:18px;">Andrea Schaerf</span></p>
+                    <p style="text-align:center;"><span style="font-size:18px;">PhD in Computer Science from University of Rome&nbsp;</span></p>
                 </td>
                 <td>
-                    <p><span style="font-size:18px;">Andrea Schaerf received his PhD in Computer Science from University of Rome "La Sapienza" in 1994.</span></p>
-                    <p><span style="font-size:18px;">From 1996 to 1998, he was an Assistant Professor at University of Rome "La Sapienza".</span></p>
-                    <p><span style="font-size:18px;">From 1998 to 2005, he was an Associate Professor at University of Udine, where, since 2005, he has been a Full Professor.&nbsp;</span><br><span style="font-size:18px;">From 2015 to 2021, he was the Head of the School of Management Engineering.&nbsp;</span><br><span style="font-size:18px;">He has been Program Chair of the 11th International Conference on the Practice and Theory of Automated Timetabling (PATAT 2016) and the 9th Metaheuristic International Conference (MIC 2011).&nbsp;</span><br><span style="font-size:18px;">He is on the editorial board of International Transactions in Operational Research and the Journal of Scheduling.&nbsp;</span><br><span style="font-size:18px;">He has been Plenary Speaker at the 6th and 13th International Conference on the Practice and Theory of Automated Timetabling (PATAT-2006 and PATAT-2022); speaker at the 1st International Metaheuristics Summer School (MESS-2018); and invited Speaker at the 27th Annual Conference of the Belgian Operations Research Society (ORBEL 27, 2013).&nbsp;</span><br><span style="font-size:18px;">His main research interests are: Scheduling, Timetabling, and Healthcare Problems; Local Search &amp; Metaheuristics for Combinatorial Problems; and Problem Specification Languages and Tools.</span></p>
+                    <p><span style="font-size:14px;">Andrea Schaerf received his PhD in Computer Science from University of Rome "La Sapienza" in 1994.</span></p>
+                    <p><span style="font-size:14px;">From 1996 to 1998, he was an Assistant Professor at University of Rome "La Sapienza".</span></p>
+                    <p><span style="font-size:14px;">From 1998 to 2005, he was an Associate Professor at University of Udine, where, since 2005, he has been a Full Professor.&nbsp;</span><br><span style="font-size:14px;">From 2015 to 2021, he was the Head of the School of Management Engineering.&nbsp;</span><br><span style="font-size:14px;">He has been Program Chair of the 11th International Conference on the Practice and Theory of Automated Timetabling (PATAT 2016) and the 9th Metaheuristic International Conference (MIC 2011).&nbsp;</span><br><span style="font-size:14px;">He is on the editorial board of International Transactions in Operational Research and the Journal of Scheduling.&nbsp;</span><br><span style="font-size:14px;">He has been Plenary Speaker at the 6th and 13th International Conference on the Practice and Theory of Automated Timetabling (PATAT-2006 and PATAT-2022); speaker at the 1st International Metaheuristics Summer School (MESS-2018); and invited Speaker at the 27th Annual Conference of the Belgian Operations Research Society (ORBEL 27, 2013).&nbsp;</span><br><span style="font-size:14px;">His main research interests are: Scheduling, Timetabling, and Healthcare Problems; Local Search &amp; Metaheuristics for Combinatorial Problems; and Problem Specification Languages and Tools.</span></p>
                 </td>
             </tr>
         </tbody>
     </table>
 </figure>
+<p><br>&nbsp;</p>
 <p><br>&nbsp;</p>
   </div>
   
