@@ -4,6 +4,33 @@
 <body>
 <header>
 <?php include('menu.html');?>
+<style>
+    .container1 {
+      display: flex;
+      max-width: 1000px;
+      margin: 0 auto;
+      border: 1px solid #ccc;
+      border-radius: 8px;
+      overflow: hidden;
+    }
+    .left-column {
+      width:25%;
+      background-color: #f2f2f2;
+    }
+    .left-column img {
+      width: 100%;
+	  padding: 5px;
+	  padding-top: 20px;
+      height: auto;
+      display: block;
+    }
+    .right-column {
+      width:75%;
+      padding: 5px;
+	  padding-top: 10px;
+      background-color: #fff;
+    }
+  </style>
 </header>
 <div class="twelve columns section">
 <div class=container>
@@ -11,30 +38,20 @@
 </div>
 
 </div>
-<div class="wrap">
-  <div class="tc">
-  
-  <figure style="width:100%;">
-    <table >
-        
-        <tbody>
-            <tr>
-                <td>
-                    <figure  style="width:44.15%;" data-ckbox-resource-id="ixJlplsHwBz0">
-                        <picture>
-                            <img src="img/andreaschaerf.jpg" width="200" height="279">
-                        </picture>
-                    </figure>
-                    <p style="text-align:center;"><span style="font-size:18px;">Andrea Schaerf</span></p>
-                    <p style="text-align:center;"><span style="font-size:18px;">PhD in Computer Science from University of Rome&nbsp;</span></p>
-					<p style="text-align:center;"><span style="font-size:18px;">&nbsp;<br></span></p>
-					<p style="text-align:center;"><span style="font-size:18px;">&nbsp;<br></span></p>
-					<p style="text-align:center;"><span style="font-size:18px;">&nbsp;<br></span></p>
-					<p style="text-align:center;"><span style="font-size:18px;">&nbsp;<br></span></p>
-					
-                </td>
-                <td>
-                    <p>-Andrea Schaerf received his PhD in Computer Science from University of Rome "La Sapienza" in 1994.</p>
+
+
+<div class="entry-content">
+<div class="container1">
+  <div class="left-column">
+    <img src="img/andreaschaerf.jpg" width="120" height="167" >
+	<p style="text-align:center;"><span style="font-size:18px;"><strong>Andrea Schaerf</strong></span></p>
+	<p style="text-align:center;"><span style="font-size:18px;"><strong>University of Udine</strong></span></p>
+	
+	
+                    
+  </div>
+  <div class="right-column">
+     <p>-Andrea Schaerf received his PhD in Computer Science from University of Rome "La Sapienza" in 1994.</p>
                     <p>-From 1996 to 1998, he was an Assistant Professor at University of Rome "La Sapienza".</p>
                     <p>-From 1998 to 2005, he was an Associate Professor at University of Udine, where, since 2005, he has been a Full Professor.<br></p>
 					<p>-From 2015 to 2021, he was the Head of the School of Management Engineering.<br>
@@ -42,15 +59,15 @@
 					<br>He is on the editorial board of International Transactions in Operational Research and the Journal of Scheduling.<br>
 					He has been Plenary Speaker at the 6th and 13th International Conference on the Practice and Theory of Automated Timetabling (PATAT-2006 and PATAT-2022); speaker at the 1st International Metaheuristics Summer School (MESS-2018); and invited Speaker at the 27th Annual Conference of the Belgian Operations Research Society (ORBEL 27, 2013).<br>
 					His main research interests are: Scheduling, Timetabling, and Healthcare Problems; Local Search &amp; Metaheuristics for Combinatorial Problems; and Problem Specification Languages and Tools.</p>
-                </td>
-            </tr>
-        </tbody>
-    </table>
-</figure>
-
+                
   </div>
-  
+ 
+   
 </div>
+</div>
+
+
+
 <?php include('foot.html');?>
 </body>
 </html>
