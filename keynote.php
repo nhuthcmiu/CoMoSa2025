@@ -22,7 +22,7 @@
                 <td>
                     <figure  style="width:44.15%;" data-ckbox-resource-id="ixJlplsHwBz0">
                         <picture>
-                            <img src="img/andreaschaerf.jpg" width="320" height="450">
+                            <img src="img/andreaschaerf.jpg" width="200" height="279">
                         </picture>
                     </figure>
                     <p style="text-align:center;"><span style="font-size:18px;">Andrea Schaerf</span></p>
@@ -31,6 +31,7 @@
 					<p style="text-align:center;"><span style="font-size:18px;">&nbsp;<br></span></p>
 					<p style="text-align:center;"><span style="font-size:18px;">&nbsp;<br></span></p>
 					<p style="text-align:center;"><span style="font-size:18px;">&nbsp;<br></span></p>
+					
                 </td>
                 <td>
                     <p>-Andrea Schaerf received his PhD in Computer Science from University of Rome "La Sapienza" in 1994.</p>
