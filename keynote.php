@@ -25,7 +25,7 @@
                 <td>
                     <figure class="image image_resized" style="width:44.15%;" data-ckbox-resource-id="ixJlplsHwBz0">
                         <picture>
-                            <img src="img/andreaschaerf.jpg" width="280" height="390">
+                            <img src="img/andreaschaerf.jpg" width="350" height="490">
                         </picture>
                     </figure>
                     <p style="text-align:center;"><span style="font-size:18px;">Andrea Schaerf</span></p>
