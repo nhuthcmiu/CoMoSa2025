@@ -14,39 +14,69 @@
 <div class=container>
 <div class=row>
 <div class="entry-content">
-<h5 style="color:#3498db"><strong>Honorary Chairs&nbsp;</strong></h5>
-<p style="line-height:115%;margin:12.0pt 0in 12.0pt 40px;"><span style=" sans-serif;font-size:14pt;"><span lang="EN" dir="ltr">Le Minh Ha</span></span></p>
-<p style="line-height:115%;margin:12.0pt 0in 12.0pt 40px;"><span style=" sans-serif;font-size:14pt;"><span lang="EN" dir="ltr">Laurent El Ghaoui</span></span></p>
-<h5 style="color:#3498db"><strong>General Chairs&nbsp;</strong></h5>
-<p style="line-height:115%;margin:12.0pt 0in 12.0pt 40px;"><span style=" sans-serif;font-size:14pt;"><span lang="EN" dir="ltr">Thai Tra My</span></span></p>
-<h5 style="color:#3498db"><strong>Program Chairs&nbsp;</strong></h5>
-<p style="line-height:115%;margin:12.0pt 0in 12.0pt 40px;"><span style=" sans-serif;font-size:14pt;"><span lang="EN" dir="ltr">Nguyen Ngoc Doanh</span></span></p>
-<p style="line-height:115%;margin:12.0pt 0in 12.0pt 40px;"><span style=" sans-serif;font-size:14pt;"><span lang="EN" dir="ltr">Huynh Thi Thanh Binh</span></span></p>
-<p style="line-height:115%;margin:12.0pt 0in 12.0pt 40px;"><span style=" sans-serif;font-size:14pt;"><span lang="EN" dir="ltr">Nguyen Van Hop</span></span></p>
-<p style="line-height:115%;margin:12.0pt 0in 12.0pt 40px;"><span style=" sans-serif;font-size:14pt;"><span lang="EN" dir="ltr">Ha Minh Hoang</span></span></p>
-<h5 style="color:#3498db"><strong>Publication Chairs&nbsp;</strong></h5>
-<p style="line-height:115%;margin:12.0pt 0in 12.0pt 40px;"><span style=" sans-serif;font-size:14pt;"><span lang="EN" dir="ltr">Nguyen Ngoc Doanh</span></span></p>
-<p style="line-height:115%;margin:12.0pt 0in 12.0pt 40px;"><span style=" sans-serif;font-size:14pt;"><span lang="EN" dir="ltr">Nguyen Van Hop</span></span></p>
-<h5 style="color:#3498db"><strong>Organizing and Local Chairs&nbsp;</strong></h5>
-<p style="line-height:115%;margin:12.0pt 0in 12.0pt 40px;"><span style=" sans-serif;font-size:14pt;"><span lang="EN" dir="ltr">Filled by VinUni</span></span></p>
-<h5 style="color:#3498db"><strong>General Secretary</strong></h5>
-<p style="line-height:115%;margin:12.0pt 0in 12.0pt 40px;"><span style=" sans-serif;font-size:14pt;"><span lang="EN" dir="ltr">Filled by VinUni</span></span></p>
-<h5 style="color:#3498db"><strong>Publicity Chairs&nbsp;</strong></h5>
-<p style="line-height:115%;margin:12.0pt 0in 12.0pt 40px;"><span style=" sans-serif;font-size:14pt;"><span lang="EN" dir="ltr">try to find one representative for each íntitution</span></span></p>
-<h5 style="color:#3498db"><strong>Finance Chair</strong></h5>
-<p style="line-height:115%;margin:12.0pt 0in 12.0pt 40px;"><span style=" sans-serif;font-size:14pt;"><span lang="EN" dir="ltr">Filled by VinUni</span></span></p>
-<h5 style="color:#3498db"><strong>Technical Program Committees&nbsp;</strong></h5>
-<p style="line-height:115%;margin:12.0pt 0in 12.0pt 40px;"><span style=" sans-serif;font-size:14pt;"><span lang="EN" dir="ltr">Nguyen Trung Thanh (National Economics University)</span></span></p>
-<p style="line-height:115%;margin:12.0pt 0in 12.0pt 40px;"><span style=" sans-serif;font-size:14pt;"><span lang="EN" dir="ltr">Vu Duc Minh (National Economics University)</span></span></p>
-<p style="line-height:115%;margin:12.0pt 0in 12.0pt 40px;"><span style=" sans-serif;font-size:14pt;"><span lang="EN" dir="ltr">Tran Hung (National Economics University)</span></span></p>
-<p style="line-height:115%;margin:12.0pt 0in 12.0pt 40px;"><span style=" sans-serif;font-size:14pt;"><span lang="EN" dir="ltr">Luong Van Thien (National Economics University)</span></span></p>
-<p style="line-height:115%;margin:12.0pt 0in 12.0pt 40px;"><span style=" sans-serif;font-size:14pt;"><span lang="EN" dir="ltr">Mai Tien (Singapore Management University)</span></span></p>
-<p style="line-height:115%;margin:12.0pt 0in 12.0pt 40px;"><span style=" sans-serif;font-size:14pt;"><span lang="EN" dir="ltr">Nguyen Viet Hung (Clermont Auvergne University)</span></span></p>
-<p style="line-height:115%;margin:12.0pt 0in 12.0pt 40px;"><span style=" sans-serif;font-size:14pt;"><span lang="EN" dir="ltr">Nguyen Hong Thanh (Oregon University, USA</span></span></p>
-<p style="line-height:115%;margin:12.0pt 0in 12.0pt 40px;"><span style=" sans-serif;font-size:14pt;"><span lang="EN" dir="ltr">Dang Thu Huong (Lancaster University)</span></span></p>
-<p style="line-height:115%;margin:12.0pt 0in 12.0pt 40px;"><span style=" sans-serif;font-size:14pt;"><span lang="EN" dir="ltr">Nguyen Trung Thanh (Liverpool John Moores University)</span></span></p>
-  
-   
+
+<h3>Organizing Committee - COMOSA 2025</h3>
+
+  <h4>Honorary Chairs</h4>
+  <ul>
+    <li>Le Minh Ha, VIASM, Viet Nam</li>
+    <li>Laurent El Ghaoui, VinUniversity, Viet Nam</li>
+  </ul>
+
+  <h4>General Chairs</h4>
+  <ul>
+    <li>Nguyen Ngoc Doanh, VinUniversity, Viet Nam</li>
+  </ul>
+
+  <h4>Program Chairs</h4>
+  <ul>
+    <li>Nguyen Ngoc Doanh, VinUniversity, Viet Nam</li>
+    <li>Huynh Thi Thanh Binh, Hanoi University of Science and Technology, Viet Nam</li>
+    <li>Nguyen Van Hop, IU VNU-HCM, Viet Nam</li>
+    <li>Ha Minh Hoang, National Economics University, Viet Nam</li>
+    <li>Tri Nguyen Huu, UMMISCO, IRD, France</li>
+  </ul>
+
+  <h4>Publication Chairs</h4>
+  <ul>
+    <li>Nguyen Ngoc Doanh, VinUniversity, Viet Nam</li>
+    <li>Nguyen Van Hop, International University, HCM-VNU, Viet Nam</li>
+  </ul>
+
+  <h4>Organizing and Local Chairs</h4>
+  <ul>
+    <li>Le Duy Dung, VinUniversity, Viet Nam</li>
+  </ul>
+
+  <h4>General Secretary</h4>
+  <ul>
+    <li>Do Bui Khanh Linh, VinUniversity, Viet Nam</li>
+  </ul>
+
+  <h4>Publicity Chairs</h4>
+  <ul>
+    <li>Le Duy Dung, VinUniversity, Viet Nam</li>
+    <li>Vu Duc Minh, National Economics University, Viet Nam</li>
+  </ul>
+
+  <h4>Finance Chair</h4>
+  <ul>
+    <li>Mai Anh Linh, VinUniversity, Viet Nam</li>
+  </ul>
+
+  <h4>Technical Program Committees</h4>
+  <ul>
+    <li>Le Duy Dung, VinUniversity, Viet Nam</li>
+    <li>Nguyen Trung Thanh, National Economics University, Viet Nam</li>
+    <li>Vu Duc Minh, National Economics University, Viet Nam</li>
+    <li>Tran Hung, National Economics University, Viet Nam</li>
+    <li>Luong Van Thien, National Economics University, Viet Nam</li>
+    <li>Mai Tien, Singapore Management University, Singapore</li>
+    <li>Nguyen Viet Hung, Clermont Auvergne University, France</li>
+    <li>Nguyen Hong Thanh, Oregon University, USA</li>
+    <li>Dang Thu Huong, Lancaster University, UK</li>
+    <li>Nguyen Trung Thanh, Liverpool John Moores University, UK</li>
+  </ul>
 </div>
 </div>
 </div>

@@ -11,7 +11,17 @@
 </div>
 </div>
 <div class="wrap">
-  <div class="tc">To Be Announced</div>
+  <div class="tc">
+  
+   <h3>For inquiries and further details, please contact:</h3>
+  <ul>
+    <li><strong>Email:</strong> <a href="mailto:comosa2025@vinuni.edu.vn">comosa2025@vinuni.edu.vn</a></li>
+    <li><strong>Phone:</strong> +84-XXX-XXXXXXX</li>
+    <li><strong>Website:</strong> <a href="#">[Insert website URL here]</a></li>
+    <li><strong>Facebook:</strong> <a href="#">[Insert Facebook page link]</a></li>
+  </ul>
+  
+  </div>
   
 </div>
 <?php include('foot.html');?>

@@ -43,6 +43,7 @@
 <div class="entry-content">
 <div class="container1">
   <div class="left-column">
+	<h4>Keynote 1</h4>
     <img src="img/andreaschaerf.jpg" width="120" height="167" >
 	<p style="text-align:center;"><span style="font-size:18px;"><strong>Andrea Schaerf</strong></span></p>
 	<p style="text-align:center;"><span style="font-size:18px;"><strong>University of Udine</strong></span></p>
@@ -66,7 +67,24 @@
 </div>
 </div>
 
-
+<div class="entry-content">
+<div class="container1">
+  <div class="left-column">
+	<h4>Keynote 2</h4>
+    <img src="img/11.jpg" width="120" height="167" >
+	<p style="text-align:center;"><span style="font-size:18px;"><strong>Prof. Alexis Drogoul, Ummisco, IRD, France </strong></span></p>
+	
+	
+	
+                    
+  </div>
+  <div class="right-column">
+        
+  </div>
+ 
+   
+</div>
+</div>
 
 <?php include('foot.html');?>
 </body>

@@ -85,3 +85,16 @@ html, body {
 	vertical-align:top;
 	padding:10px;
 }
+
+ul {
+      margin-left: 20px;
+	  font-size:14pt;
+    }
+	
+li {
+  margin-bottom: 6px;
+  font-size:14pt;
+}
+p{
+	font-size:14pt;
+}

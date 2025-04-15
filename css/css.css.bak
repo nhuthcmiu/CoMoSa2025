@@ -85,28 +85,3 @@ html, body {
 	vertical-align:top;
 	padding:10px;
 }
- .containerkeynote {
-      display: flex;
-      max-width: 1000px;
-      margin: 0 auto;
-      border: 1px solid #ccc;
-      border-radius: 8px;
-      overflow: hidden;
-    }
-    .left-columnkeynote {
-      width:25%;
-      background-color: #f2f2f2;
-    }
-    .left-columnkeynote img {
-      width: 100%;
-	  padding: 5px;
-	  padding-top: 20px;
-      height: auto;
-      display: block;
-    }
-    .right-columnkeynote {
-      width:75%;
-      padding: 5px;
-	  padding-top: 10px;
-      background-color: #fff;
-    }
