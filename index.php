@@ -7,19 +7,20 @@
 <div class="banner layer-1" id=banner-background></div>
 <div class="banner layer-2">
 <div class="container content-1" id=banner-text>
-<h1>COMOSA2025</h1>
+<h2>COMOSA2025</h2>
 <hr/>
 
-<h2 style="color:#0FF"><strong>The International Conference on Optimization, Modeling, Simulation, and Analytics (COMOSA).</strong></h2>
+<h3 style="color:#0FF"><strong>The International Conference on Optimization, Modeling, Simulation, and Analytics (COMOSA).</strong></h3>
+<hr/>
 <div class="">
   <div class="six columns">
 <h5><b>WHEN</b></h5>
-<h3>August 15-16, 2025</h3>
+<h4>August 15-16, 2025</h4>
 
 </div>
 <div class="six columns">
 <h5><b>WHERE</b></h5>
-<h3>VinUniversity, Hanoi, Vietnam</h3>
+<h4>VinUniversity, Hanoi, Vietnam</h4>
 </div>
 </div>
 </div>
