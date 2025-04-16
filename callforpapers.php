@@ -26,7 +26,7 @@
       margin: auto;
       line-height: 1.6;
     }
-    h1, h2, h3, h4 {
+    h2, h3, h4 {
       color: #2a4d9c;
     }
     ul {

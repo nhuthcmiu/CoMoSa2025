@@ -14,12 +14,10 @@
   <div class="tc">
   
    <h3>For inquiries and further details, please contact:</h3>
-  <ul>
-    <li><strong>Email:</strong> <a href="mailto:comosa2025@vinuni.edu.vn">comosa2025@vinuni.edu.vn</a></li>
-    <li><strong>Phone:</strong> +84-XXX-XXXXXXX</li>
-    <li><strong>Website:</strong> <a href="#">[Insert website URL here]</a></li>
-    <li><strong>Facebook:</strong> <a href="#">[Insert Facebook page link]</a></li>
-  </ul>
+  
+    <p>Authors with papers conducted in Vietnamese universities can apply for financial support by sending an email to <a href="mailto:comosa2025@vinuni.edu.vn">comosa2025@vinuni.edu.vn</a> from the email used in paper submission. The email must include paper ID, paper title, and author’s affiliation.</p>
+    <p>We also have some limited support for non-authors from Vietnamese universities (especially students). Email to <a href="mailto:comosa2025@vinuni.edu.vn">comosa2025@vinuni.edu.vn</a> for more details.</p>
+
   
   </div>
   
