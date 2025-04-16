@@ -21,7 +21,7 @@
         Please revise your paper to address the comments and concerns that the reviewers may have raised. The reviews have been sent to you in the acceptance notification email.
     </li>
     <li>
-        The proceedings of CSoNet 2025 will be published in Springer LNCS. Please carefully read Springer’s preparation instructions.
+        The proceedings of COMOSA 2025 will be published in Springer LNCS. Please carefully read Springer’s preparation instructions.
     </li>
     <li>
         Each accepted full paper has 12 pages, formatted using the LNCS format without altering the margins or the font point. Authors can purchase up to THREE extra pages, at $50/page. If you decide to purchase an extra page(s), please select the extra page option in the registration system.
