@@ -3,7 +3,7 @@
 <?php include('head.html');?>
 <body>
 <header>
-<?php include('menu.html');?>
+<?php include('menu.php');?>
 <style>
     table {
       width: 100%;
@@ -45,32 +45,32 @@
   <tr>
     <td>
       <ul>
-        <li><strong>Hour Opening Ceremony:</strong>
+        <li><strong>Opening Ceremony:</strong>
           <ul>
             <li>Welcome speech by the organizer and university representative.</li>
             <li>Introduction to the workshop objectives.</li>
           </ul>
         </li>
-        <li><strong>Hour Keynote Speech:</strong>
+        <li><strong>Keynote Speech:</strong>
           <ul>
             <li>Prof. Andrea Schaerf, University of Udine</li>
             <li>Topics may include recent advancements in optimization techniques, cutting-edge analytics tools, and innovative simulation models.</li>
           </ul>
         </li>
-        <li><strong>Hour Regular Talks:</strong> 15 talks</li>
-        <li><strong>Hour Gala dinner</strong></li>
+        <li><strong>Regular Talks:</strong> 15 talks</li>
+        <li><strong>Gala dinner</strong></li>
       </ul>
     </td>
     <td>
       <ul>
-        <li><strong>Hour Keynote Speech:</strong>
+        <li><strong>Keynote Speech:</strong>
           <ul>
             <li>A keynote presentation by a renowned expert in the field.</li>
             <li>Topics may include recent advancements in optimization techniques, cutting-edge analytics tools, and innovative simulation models.</li>
           </ul>
         </li>
-        <li><strong>Hour Regular Talks:</strong> 15 talks</li>
-        <li><strong>Hour Closing Ceremony:</strong>
+        <li><strong>Regular Talks:</strong> 15 talks</li>
+        <li><strong>Closing Ceremony:</strong>
           <ul>
             <li>Summary of workshop outcomes.</li>
             <li>Announcement of best presentations and posters.</li>

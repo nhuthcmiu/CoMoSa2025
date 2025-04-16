@@ -17,7 +17,7 @@
 <meta name=msvalidate.01 content=BA0BBC58CBEE9FCB03BD66E27D9252B5 />
 <body>
 <header>
-<?php include('menu.html');?>
+<?php include('menu.php');?>
 <style>
    
     h1, h2, h3, h4 {
@@ -170,7 +170,7 @@
   <h3>Previous VORN Editions</h3>
   <ul>
     <li><a href="https://viasm.edu.vn/hdkh/vorn2021" target="_blank">VORN2021 in HCMC</a> || <a href="https://viasm.edu.vn/hoat-dong-khoa-hoc/tin-tuc/chi-tiet/vorn2021" target="_blank">VORN2021 in Hanoi</a></li>
-    <li><a href="https://viasm.edu.vn/hdkh/vorn2022?userkey=talk-1-talk-2" target="_blank">VORN2022</a></li>
+    <li><a href="" target="_blank">VORN2022</a></li>
 	<li><a href="https://csonet-conf.github.io/csonet23/index.html" target="_blank">CSoNet2023 | VORN2023</a></li>
     <li><a href="https://en.neu.edu.vn/vi/news/the-4th-vietnam-operations-research-network-scientific-conference-vorn-2024" target="_blank">VORN2024</a></li>
   </ul>

@@ -3,7 +3,7 @@
 <?php include('head.html');?>
 <body>
 <header>
-<?php include('menu.html');?>
+<?php include('menu.php');?>
 <style>
     .container1 {
       display: flex;
