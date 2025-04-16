@@ -16,7 +16,7 @@
    <h3>For inquiries and further details, please contact:</h3>
   <ul>
     <li><strong>Email:</strong> <a href="mailto:comosa2025@vinuni.edu.vn">comosa2025@vinuni.edu.vn</a></li>
-    <li><strong>Phone:</strong> +84-888-379929</li>379929
+    <li><strong>Phone:</strong> +84-888-379929</li>
     <li><strong>Website:</strong> <a href="#">comosa.vn</a></li>
     <li><strong>Facebook:</strong> <a href="#"></a></li>
   </ul>
