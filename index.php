@@ -149,7 +149,7 @@
 
   <p><strong>Accepted papers</strong> will be published in Springer’s Lecture Notes in Computer Science, and indexed by ISI (CPCI-S, included in ISI Web of Science), EI Engineering Index (Compendex and Inspec databases), ACM Digital Library, DBLP, Google Scholar, MathSciNet, etc. Also, extended versions of selected best papers will be invited for publication in <em>Journal of Combinatorial Optimization</em> and <em>Applied Network Science</em>.</p>
 
-  <p>Authors who are interested in the above topics can submit their unpublished work to CSoNet 2025. A clear indication of the motivation and comparison with prior related work should be presented. Simultaneous submission to a journal or another conference with refereed proceedings is not allowed.</p>
+  <p>Authors who are interested in the above topics can submit their unpublished work to COMOSA 2025. A clear indication of the motivation and comparison with prior related work should be presented. Simultaneous submission to a journal or another conference with refereed proceedings is not allowed.</p>
 
   <h3>Submission Guidelines</h3>
   <ul>
@@ -169,7 +169,7 @@
     <li>Author Registration Deadline: <strong>August 01, 2025</strong></li>
     <li>Conference Dates: <strong>August 15–16, 2025</strong></li>
   </ul>
-  <h3>Previous CSoNet Editions</h3>
+  <h3>Previous COMOSA Editions</h3>
 </div>
 </div>
 </div>

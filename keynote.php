@@ -20,15 +20,15 @@
     .left-column img {
       width: 100%;
 	  padding: 5px;
-	  padding-top: 20px;
+	  padding-top: 0px;
       height: auto;
       display: block;
     }
     .right-column {
       width:75%;
-      padding: 5px;
-	  padding-top: 10px;
-      background-color: #fff;
+      padding: 20px;
+	  padding-top: 50px;
+      background-color: #f2f2f2;
     }
   </style>
 </header>
@@ -43,7 +43,7 @@
 <div class="entry-content">
 <div class="container1">
   <div class="left-column">
-	<h4>Keynote 1</h4>
+	<h5 style="text-align:center;">Keynote 1</h5>
     <img src="img/andreaschaerf.jpg" width="120" height="167" >
 	<p style="text-align:center;"><span style="font-size:18px;"><strong>Andrea Schaerf</strong></span></p>
 	<p style="text-align:center;"><span style="font-size:18px;"><strong>University of Udine</strong></span></p>
