@@ -39,8 +39,8 @@
 
 <table>
   <tr>
-    <th>Day 1 (August 15, 2025)</th>
-    <th>Day 2 (August 16, 2025)</th>
+    <th><h4>Day 1 (August 15, 2025)</h4></th>
+    <th><h4>Day 2 (August 16, 2025)</h4></th>
   </tr>
   <tr>
     <td>
