@@ -65,9 +65,9 @@
 <div class=row>
 <div >
   <h3>Welcome to COMOSA 2025!</h3>
-  <h5>Conference on Optimization, Modeling, Simulation, and Analytics (COMOSA 2025)</h5>
-  <h5><i>The 5th Season of the VORN Annual Meeting</i></h5>
-  <h5><i><strong>August 15–16, 2025</strong> | VinUniversity, Hanoi, Vietnam</i></h5>
+  <h5>Conference on Optimization, Modeling, Simulation, and Analytics (COMOSA 2025)<h5>
+  <h5><i>The 5th edition of VORN Annual Meeting</i></h5>
+  <h5><i>August 15–16, 2025 | VinUniversity, Hanoi, Vietnam</i></h5>
   
 </div>
 </div>
@@ -77,99 +77,103 @@
 <div class="container wrap">
 <div class="row">
 <div class="tc">
-<p>COMOSA 2025, formerly known as VORN (Vietnam Operations Research Network) Annual Meeting, provides a premier interdisciplinary forum to bring together researchers, practitioners, and students from all fields related to optimization, modeling, simulation, and analytics. The primary objective of the workshop is to foster collaboration, share insights, and explore innovative solutions to real-world problems through discussions on the latest advancements and applications in these domains.</p>
-
-  <p>The conference seeks to address emerging and impactful computational challenges, with a focus on theoretical foundations, methodological advances, and real-world applications. We invite submissions of original and unpublished research contributions across theoretical, methodological, and applied domains. COMOSA 2025 will be hosted at VinUniversity in the vibrant city of Hanoi, Vietnam.</p>
-
-  <h3>Topics of interest include, but are not limited to:</h3>
-  
-  <h4>Optimization for Supply Chain Systems</h4>
-  <ul>
-    <li>Inventory Management and Control</li>
-    <li>Transportation and Distribution Optimization</li>
-    <li>Risk Management in Supply Chains</li>
-    <li>Sustainable Supply Chain Management</li>
-  </ul>
-
-  <h4>Business Intelligence and Analytics</h4>
-  <ul>
-    <li>Customer Behavior Analysis</li>
-    <li>Marketing Analytics and Consumer Insights</li>
-    <li>Pricing Strategies and Revenue Management</li>
-    <li>Data-Driven Decision Making in Business</li>
-    <li>Algorithmic Trading and Finance</li>
-    <li>Human Resources Analytics</li>
-    <li>Game Theory and Strategic Decision Making</li>
-    <li>Social Media Analytics in Business</li>
-    <li>Algorithmic Fairness in Finance and Economics</li>
-    <li>Financial Risk Analysis and Management</li>
-  </ul>
+	<p>COMOSA 2025, formerly known as VORN (Vietnam Operations Research Network) Annual Meeting, provides a premier interdisciplinary forum to bring together researchers, practitioners, and students from all fields related to optimization, modeling, simulation, and analytics. The primary objective of the workshop is to foster collaboration, share insights, and explore innovative solutions to real-world problems through discussions on the latest advancements and applications in these domains.</p>
+	<p>The conference seeks to address emerging and impactful computational challenges, with a focus on theoretical foundations, methodological advances, and real-world applications. We invite submissions of original and unpublished research contributions across theoretical, methodological, and applied domains. COMOSA 2025 will be hosted at VinUniversity in the vibrant city of Hanoi, Vietnam.</p>
+	<h3>Topics of interest include, but are not limited to:</h3>
+	<h4>Operations Research and Optimization for Supply Chain & Manufacturing Systems</h4>
+	<ul>
+		<li>Inventory Management and Control</li>
+		<li>Transportation and Distribution Optimization</li>
+		<li>Risk Management in Supply Chains</li>
+		<li>Sustainable Supply Chain Management</li>
+		<li>Optimization for e-commerce, sharing economy, healthcare systems</li>
+		<li>Multi-objective Optimization and Multi-criteria analysis</li>
+		<li>Game Theory and Strategic Decision Making</li>
+		<li>Operations Research in Manufacturing</li>
+		<li>Smart Manufacturing Systems</li>
+		<li>Digital twin applications</li>
+		<li>AIs, Gen AIs for optimization</li>
+		<li>Machine Learning for Optimization</li>
+	</ul>
+	<h4>Business Intelligence and Analytics</h4>
+	<ul>
+		<li>Customer Behavior Analysis</li>
+		<li>Marketing Analytics and Consumer Insights</li>
+		<li>Pricing Strategies and Revenue Management</li>
+		<li>Data-Driven Decision Making in Business</li>
+		<li>Algorithmic Trading and Finance</li>
+		<li>Human Resources Analytics</li>
+		<li>Social Media Analytics in Business</li>
+		<li>Algorithmic Fairness in Finance and Economics</li>
+		<li>Financial Risk Analysis and Management</li>
+	</ul>
 
   <h4>Simulation and Modeling in Business Operations</h4>
   <ul>
-    <li>Operations Research in Manufacturing</li>
-    <li>Smart Manufacturing Systems</li>
-    <li>Foundations of Modeling Techniques</li>
-    <li>Simulation Methodologies in Operations Research</li>
-    <li>Discrete Event Simulation</li>
-    <li>Continuous System Simulation</li>
-    <li>Agent-Based Modeling</li>
-    <li>System Dynamics Modeling</li>
-    <li>Stochastic Modeling Approaches</li>
-    <li>Applications of Simulation in Manufacturing</li>
-    <li>Healthcare Simulation Models</li>
-    <li>Environmental Modeling and Simulation</li>
-    <li>Simulation for Supply Chain Management</li>
-    <li>Virtual Prototyping and Testing</li>
-    <li>Modeling Complex Systems</li>
-    <li>Sensitivity Analysis in Simulation</li>
-    <li>Real-Time Simulation Techniques</li>
-    <li>Integration of Machine Learning in Simulation</li>
-    <li>Validation and Verification of Simulation Models</li>
+		<li>Foundations of Modeling Techniques</li>
+		<li>Simulation Methodologies in Operations Research</li>
+		<li>Discrete Event Simulation</li>
+		<li>Continuous System Simulation</li>
+		<li>Agent-Based Modeling</li>
+		<li>System Dynamics Modeling</li>
+		<li>Stochastic Modeling Approaches</li>
+		<li>Applications of Simulation in Manufacturing</li>
+		<li>Healthcare Simulation Models</li>
+		<li>Environmental Modeling and Simulation</li>
+		<li>Simulation for Supply Chain Management</li>
+		<li>Virtual Prototyping and Testing</li>
+		<li>Modeling Complex Systems</li>
+		<li>Sensitivity Analysis in Simulation</li>
+		<li>Real-Time Simulation Techniques</li>
+		<li>Integration of Machine Learning in Simulation</li>
+		<li>Validation and Verification of Simulation Models</li>
   </ul>
 
-  <h4>Optimization in Data Science and Artificial Intelligence</h4>
+  <h4>Data Science and Artificial Intelligence</h4>
   <ul>
-    <li>Machine Learning and Artificial Intelligence</li>
-    <li>Multi-objective Optimization and Multi-criteria analysis</li>
-    <li>Big Data Analytics</li>
-    <li>Sustainable Urban Development through Data-Driven Insights</li>
-    <li>Data Analytics for Environmental Impact Assessment</li>
-    <li>Predictive and Prescriptive Analytics</li>
-    <li>IoT and Sensor Data Analysis for Urban Monitoring</li>
-    <li>Cloud and Edge Computing for Urban Data Processing</li>
-    <li>Decision Support Systems</li>
-    <li>Data-Driven Strategies for Circular Economy and Resource Efficiency</li>
-    <li>Emerging Trends in Analytics and Optimization</li>
-    <li>Digital twin applications</li>
-    <li>AIs, Gen AIs for optimization</li>
-    <li>Machine Learning for Optimization</li>
-    <li>Optimization for e-commerce, sharing economy, healthcare systems</li>
+		<li>Machine Learning and Artificial Intelligence</li>
+		<li>Big Data Analytics</li>
+		<li>Sustainable Urban Development through Data-Driven Insights</li>
+		<li>Data Analytics for Environmental Impact Assessment</li>
+		<li>Predictive and Prescriptive Analytics</li>
+		<li>IoT and Sensor Data Analysis for Urban Monitoring</li>
+		<li>Cloud and Edge Computing for Urban Data Processing</li>
+		<li>Decision Support Systems</li>
+		<li>Data-Driven Strategies for Circular Economy and Resource Efficiency</li>
+		<li>Emerging Trends in Analytics and Optimization</li>
   </ul>
+  <p>Selected papers will be invited for publication in Journal of Combinatorial Optimization and Applied Network Science.</p>
 
-  <p><strong>Accepted papers</strong> will be published in Springer’s Lecture Notes in Computer Science, and indexed by ISI (CPCI-S, included in ISI Web of Science), EI Engineering Index (Compendex and Inspec databases), ACM Digital Library, DBLP, Google Scholar, MathSciNet, etc. Also, extended versions of selected best papers will be invited for publication in <em>Journal of Combinatorial Optimization</em> and <em>Applied Network Science</em>.</p>
+	<h3>Target Audience:</h3>
+	<ul>
+		<li>Researchers and academicians in operations research, analytics, and related fields.</li>
+		<li>Industry professionals working in optimization, supply chain, finance, and technology sectors.</li>
+		<li>Graduate and postgraduate students with an interest in these areas.</li>
+	</ul>
+  
+  <p>Authors who are interested in the above topics can submit their unpublished work to COMOSA 2025. A clear indication of the motivation and comparison with prior related work should be presented. Simultaneous submission to a journal or another conference with refereed proceedings is not allowed.</p>
 
-  <p>Authors who are interested in the above topics can submit their unpublished work to CSoNet 2025. A clear indication of the motivation and comparison with prior related work should be presented. Simultaneous submission to a journal or another conference with refereed proceedings is not allowed.</p>
-
-  <h3>Submission Guidelines</h3>
-  <ul>
-    <li>Papers must be formatted using the LNCS format <a href="https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines">LNCS guidelines</a> without altering margins or the font point.</li>
-    <li>The maximum length of a regular paper (including references) is 12 pages; 2 pages for an extended abstract.</li>
-    <li>Proofs omitted due to space constraints must be placed in an appendix to be read by the program committee members at their discretion.</li>
-  </ul>
-
+  
+  <p><strong>Submission Guidelines:</strong> TBD</p>
   <p><strong>Submission Link:</strong> TBD</p>
+  <p><strong>Author toolkit:</strong> TBD</p>
 
   <h3>Important Dates</h3>
   <ul>
     <li>Paper Submission Deadline: <strong>June 01, 2025</strong></li>
-    <li>Paper Acceptance Notification: <strong>July 01, 2025</strong></li>
-    <li>Early Bird Registration Deadline: <em>xxx</em></li>
+    <li>Paper Acceptance Notification: <strong>July 01, 2025</strong></li>    
     <li>Camera Ready Deadline: <strong>July 15, 2025</strong></li>
+	<li>Early Bird Registration Deadline: <strong>July 20, 2025</strong></li>
     <li>Author Registration Deadline: <strong>August 01, 2025</strong></li>
     <li>Conference Dates: <strong>August 15–16, 2025</strong></li>
   </ul>
-  <h3>Previous CSoNet Editions</h3>
+  <h3>Previous VORN Editions</h3>
+  <ul>
+    <li><a href="https://viasm.edu.vn/hdkh/vorn2021" target="_blank">VORN2021 in HCMC</a> || <a href="https://viasm.edu.vn/hoat-dong-khoa-hoc/tin-tuc/chi-tiet/vorn2021" target="_blank">VORN2021 in Hanoi</a></li>
+    <li><a href="https://viasm.edu.vn/hdkh/vorn2022?userkey=talk-1-talk-2" target="_blank">VORN2022</a></li>
+	<li><a href="https://csonet-conf.github.io/csonet23/index.html" target="_blank">CSoNet2023 | VORN2023</a></li>
+    <li><a href="https://en.neu.edu.vn/vi/news/the-4th-vietnam-operations-research-network-scientific-conference-vorn-2024" target="_blank">VORN2024</a></li>
+  </ul>
 </div>
 </div>
 </div>
