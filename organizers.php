@@ -86,6 +86,11 @@
 	<li><a href="http://iem.hcmiu.edu.vn/tdvi/" target="_blank">Tran Duc Vi</a>, International University, VNU-HCM, Viet Nam</li>
 	<li><a href="https://iem.hcmiu.edu.vn/nhganh/" target="_blank">Nguyen Hang Giang Anh</a>, International University, VNU-HCM, Viet Nam</li>
 	
+	<li><a href="https://scholar.google.com/citations?user=JbGLgokAAAAJ&hl=vi" target="_blank">Phan Thi Mai Ha</a>, HCM University of Technology, Viet Nam</li>
+	<li><a href="" target="_blank">Nguyen Vang Phuc Nguyen</a>, HCM University of Technology, Viet Nam</li>
+
+
+	
   </ul>
 </div>
 </div>
