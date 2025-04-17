@@ -50,13 +50,13 @@
         <tbody>
             <tr>
                 <td>Registration (Author or Non-Author)</td>
-                <td>50 USD</td>
-                <td>70 USD </td>
+                <td>TBD</td>
+                <td>TBD</td>
             </tr>
             <tr>
                 <td>Full Time Student</td>
-                <td> 40 USD</td>
-                <td> 60 USD</td>
+                <td>TBD</td>
+                <td>TBD</td>
             </tr>
         </tbody>
     </table>
