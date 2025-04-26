@@ -171,7 +171,7 @@
   <ul>
     <li><a href="https://viasm.edu.vn/hdkh/vorn2021" target="_blank">VORN2021 in HCMC</a> || <a href="https://viasm.edu.vn/hoat-dong-khoa-hoc/tin-tuc/chi-tiet/vorn2021" target="_blank">VORN2021 in Hanoi</a></li>
     <li><a href="" target="_blank">VORN2022</a></li>
-	<li><a href="https://csonet-conf.github.io/csonet23/index.html" target="_blank">CSoNet2023 | VORN2023</a></li>
+	<li><a href="https://soict.org/2023/" target="_blank">VORN2023</a></li>
     <li><a href="https://en.neu.edu.vn/vi/news/the-4th-vietnam-operations-research-network-scientific-conference-vorn-2024" target="_blank">VORN2024</a></li>
   </ul>
 </div>
