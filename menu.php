@@ -5,8 +5,7 @@ $page = basename($_SERVER['PHP_SELF']);
 <div>
 <ul id=navigation class=slimmenu>
 <li style=line-height:0;spacing:0;margin:0><a style=padding:0;margin-right:5px href=index.php id=bottom></a></li>
-<li><a <?php if ($page=="index.php"){ echo 'class=active';}?> data-scroll>COMOSA2025</a></li>
-<li><a  href=index.php data-scroll>Call For Papers</a></li>	
+<li><a <?php if ($page=="index.php"){ echo 'class=active';}?> href=index.php data-scroll>Call For Papers</a></li>	
 <li><a <?php if ($page=="organizers.php"){ echo 'class=active';}?> href=organizers.php data-scroll>Organizations </a></li>
 <li><a <?php if ($page=="keynote.php"){ echo 'class=active';}?> href=keynote.php data-scroll>Keynote</a></li>
 <li><a <?php if ($page=="cameraready.php"){ echo 'class=active';}?> href=cameraready.php data-scroll>Camera Ready</a></li>
