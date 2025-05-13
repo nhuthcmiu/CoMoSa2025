@@ -66,6 +66,7 @@
 <div >
   <h3>Welcome to COMOSA 2025!</h3>
   <h5>Conference on Optimization, Modeling, Simulation, and Analytics (COMOSA 2025)<h5>
+  <h5><i>The 5th edition of VORN Annual Meeting</i></h5>
   <h5><i>August 15–16, 2025 | VinUniversity, Hanoi, Vietnam</i></h5>
   
 </div>
@@ -76,7 +77,7 @@
 <div class="container wrap">
 <div class="row">
 <div class="tc">
-	<p>COMOSA 2025 marks the inaugural year in which two academic networks —the Vietnamese Climate Science and Environmental Modelling Network (VCSEMN) and the Vietnam Operations Research Network (VORN) under the Vietnam Institute for Advanced Study in Mathematics (VIASM) — jointly organize a unified forum. This interdisciplinary platform brings together researchers, practitioners, and students across fields related to optimization, modeling, simulation, analytics, and environmental systems. The primary objective is to foster collaboration, share insights, and explore innovative solutions to real-world challenges through discussions on the latest advancements and applications in these domains.</p>
+	<p>COMOSA 2025, formerly known as VORN (Vietnam Operations Research Network) Annual Meeting, provides a premier interdisciplinary forum to bring together researchers, practitioners, and students from all fields related to optimization, modeling, simulation, and analytics. The primary objective of the workshop is to foster collaboration, share insights, and explore innovative solutions to real-world problems through discussions on the latest advancements and applications in these domains.</p>
 	<p>The conference seeks to address emerging and impactful computational challenges, with a focus on theoretical foundations, methodological advances, and real-world applications. We invite submissions of original and unpublished research contributions across theoretical, methodological, and applied domains. COMOSA 2025 will be hosted at VinUniversity in the vibrant city of Hanoi, Vietnam.</p>
 	<h3>Topics of interest include, but are not limited to:</h3>
 	<h4>Operations Research and Optimization for Supply Chain & Manufacturing Systems</h4>
@@ -107,7 +108,7 @@
 		<li>Financial Risk Analysis and Management</li>
 	</ul>
 
-  <h4>Simulation and Modeling for Complex Systems</h4>
+  <h4>Simulation and Modeling in Business Operations</h4>
   <ul>
 		<li>Foundations of Modeling Techniques</li>
 		<li>Simulation Methodologies in Operations Research</li>
@@ -127,18 +128,6 @@
 		<li>Integration of Machine Learning in Simulation</li>
 		<li>Validation and Verification of Simulation Models</li>
   </ul>
-
-	<h4>Digital Twins for Environment and Urban Systems</h4>
-	 <ul>
-		<li>Digital Twin Technologies for Urban Planning and Infrastructure</li>
-		<li>Real-Time Monitoring of Environmental and Climate Conditions</li>
-		<li>Integration of IoT, Remote Sensing, and Sensor Data into Digital Twins</li>
-		<li>Multi-Scale Modeling of Urban-Environment Interactions</li>
-		<li>Climate-Informed Digital Twin Applications for Disaster Risk Reduction</li>
-		<li>Simulation of Climate Impacts on Cities and Natural Ecosystems</li>
-		<li>Decision Support Systems for Environmental Management and Resilience Planning</li>
-		<li>Cross-Sectoral Digital Twins for Sustainable Development and Smart Governance</li>
-	 </ul>
 
   <h4>Data Science and Artificial Intelligence</h4>
   <ul>
@@ -171,7 +160,8 @@
 
   <h3>Important Dates</h3>
   <ul>
-    <li>Paper Submission Deadline: <strong>June 01, 2025</strong></li>
+    <li>Abstract Submission Deadline: <strong>June 01, 2025</strong></li>
+	<li>Paper Submission Deadline: <strong>June 15, 2025</strong></li>
     <li>Paper Acceptance Notification: <strong>July 01, 2025</strong></li>    
     <li>Camera Ready Deadline: <strong>July 15, 2025</strong></li>
 	<li>Early Bird Registration Deadline: <strong>July 20, 2025</strong></li>
@@ -180,9 +170,10 @@
   </ul>
   <h3>Previous VORN Editions</h3>
   <ul>
-    <li><a href="https://viasm.edu.vn/hdkh/vorn2021" target="_blank">VORN2021 in HCMC</a> || <a href="https://viasm.edu.vn/hoat-dong-khoa-hoc/tin-tuc/chi-tiet/vorn2021" target="_blank">VORN2021 in Hanoi</a></li>
-    <li><a href="" target="_blank">VORN2022</a></li>
-	<li><a href="https://soict.org/2023/" target="_blank">VORN2023</a></li>
+    <li><a href="https://viasm.edu.vn/hoat-dong-khoa-hoc/tin-tuc/chi-tiet/vorn2021" target="_blank">VORN2021 in Hanoi</a></li>
+	<li><a href="https://viasm.edu.vn/hdkh/vorn-2022" target="_blank">VORN2022 in HCMC || </a>
+    <a href="https://viasm.edu.vn/hdkh/vorn2022?userkey=talk-1-talk-2" target="_blank">VORN2022</a></li>
+	<li><a href="https://csonet-conf.github.io/csonet23/index.html" target="_blank">CSoNet2023 | VORN2023</a></li>
     <li><a href="https://en.neu.edu.vn/vi/news/the-4th-vietnam-operations-research-network-scientific-conference-vorn-2024" target="_blank">VORN2024</a></li>
   </ul>
 </div>
