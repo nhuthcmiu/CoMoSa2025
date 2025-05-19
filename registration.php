@@ -35,7 +35,7 @@
 </div>
 <div class="wrap">
   <div class="tc">
-  <h4><strong>Registration link:</strong> To Be Announced</h4>
+  <h4><strong>Registration link:</strong> <a href=https://auth.oxfordabstracts.com/?redirect=/stages/78946/submitter >https://auth.oxfordabstracts.com/?redirect=/stages/78946/submitter </a></h4>
 
     <h3>Registration rate:</h3>
 	
@@ -60,7 +60,7 @@
             </tr>
         </tbody>
     </table>
-
+	<h3>Transaction Instructions: TBD</h3>
     <h3>Important information:</h3>
     <ul>
 <li>-At least one author of each accepted paper must register and pay full registration fee before 20 Jul 2025.</li>
