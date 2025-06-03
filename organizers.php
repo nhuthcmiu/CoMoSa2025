@@ -35,7 +35,7 @@
     <li><a href="https://iem.hcmiu.edu.vn/nvhop-2/" target="_blank">Nguyen Van Hop</a>, IU VNU-HCM, Viet Nam</li>
     <li><a href="https://nct.neu.edu.vn/staff/ha-minh-hoang/" target="_blank">Ha Minh Hoang</a>, National Economics University, Viet Nam</li>
     <li><a href="https://www.scilit.com/scholars/9509304" target="_blank">Tri Nguyen Huu</a>, UMMISCO, IRD, France</li>
-	<li><a href="" target="_blank">Long Tran-Thanh</a>, University of Warwick, UK</li>
+	<li><a href="https://warwick.ac.uk/fac/sci/dcs/people/long_tran-thanh/" target="_blank">Long Tran-Thanh</a>, University of Warwick, UK</li>
   </ul>
 
   <h4>Publication Chairs</h4>
