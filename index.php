@@ -181,10 +181,10 @@
   <h3>Important Dates</h3>
   <ul>
     <li>Abstract Submission Deadline: <strong>June 01, 2025</strong></li>
-	<li>Paper Submission Deadline: <strong>June 15, 2025</strong></li>
-    <li>Paper Acceptance Notification: <strong>July 01, 2025</strong></li>    
-    <li>Camera Ready Deadline: <strong>July 15, 2025</strong></li>
-	<li>Early Bird Registration Deadline: <strong>July 20, 2025</strong></li>
+	<li>Paper Submission Deadline: <strong>June 30, 2025</strong></li>
+    <li>Paper Acceptance Notification: <strong>July 15, 2025</strong></li>    
+    <li>Camera Ready Deadline: <strong>July 20, 2025</strong></li>
+	<li>Early Bird Registration Deadline: <strong>July 25, 2025</strong></li>
     <li>Author Registration Deadline: <strong>August 01, 2025</strong></li>
     <li>Conference Dates: <strong>August 15–16, 2025</strong></li>
   </ul>
