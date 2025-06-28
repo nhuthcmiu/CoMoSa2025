@@ -39,10 +39,12 @@
 
 <table>
   <tr>
+	<th><h4>August 13-14, Summer School</h4></th>
     <th><h4>Day 1 (August 15, 2025)</h4></th>
     <th><h4>Day 2 (August 16, 2025)</h4></th>
   </tr>
   <tr>
+	<td>To register, please visit the following link and follow the instructions: <a href="https://viasm.edu.vn/hdkh/COMOSA-2025">https://viasm.edu.vn/hdkh/COMOSA-2025</a></td>
     <td>
       <ul>
         <li><strong>Opening Ceremony:</strong>
