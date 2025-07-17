@@ -35,47 +35,49 @@
 </div>
 <div class="wrap">
   <div class="tc">
-  <h4><strong>Registration link:</strong> <a href=https://auth.oxfordabstracts.com/?redirect=/stages/78946/submitter >https://auth.oxfordabstracts.com/?redirect=/stages/78946/submitter </a></h4>
+  <br>
+  <h4><strong>Registration link:</strong></h4> 
+  <h4><a href="https://register.oxfordabstracts.com/event/75543" target="_blank">https://register.oxfordabstracts.com/event/75543</a>
+	</h4>
+    <h3>Registration Policy:</h3>
+	<ul>
+		<li>-Each accepted paper must be registered by at least one author no later than <strong>July 31, 2025</strong>. If an author has <strong>multiple accepted papers</strong>, separate registration is required for each paper.</li>
+		<li>-Each accepted paper is entitled to <strong>one complimentary Author Registration</strong>, which covers full conference access, including teabreaks, two lunches, and the gala dinner.</li>
+		<li>-<strong>Non-presenting co-authors</strong> who wish to attend must also complete <strong>Regular Registration by July 31, 2025</strong>, to receive priority access.</li>
+		<li>-After <strong>July 31, 2025</strong>, remaining <strong>co-authors</strong> (not yet registered) and <strong>General Participants</strong> (non-authors) may register as Regular Participants, subject to availability. Regular Registration is <strong>free of charge</strong>, but <strong>slots are limited</strong>.</li>
+		<li>-While there is <strong>no registration fee</strong>, regular participants who wish to attend the <strong>Gala Dinner on August 15</strong> will be required to pay an <strong>additional fee of 600,000 VND per person</strong>, payable onsite on the day of the conference.</li>
+      </ul>
 
-    <h3>Registration rate:</h3>
-	
+    <h3>Participant Benefits Overview:</h3>
     <table>
         <thead>
             <tr>
-                <th>Category</th>
-                <th>Before 20 July 2025</th>
-                <th>After 20 July 2025</th>
+                <th><strong>Participant Type</th>
+                <th>Conference Sessions & Teabreaks</th>
+                <th>Lunch (2 days)</th>
+				<th>Gala Dinner</th>
+				<th>Notes</strong></th>
             </tr>
         </thead>
         <tbody>
             <tr>
-                <td>Registration (Author or Non-Author)</td>
-                <td><center>Free</center></td>
-                <td><center>Free</center> </td>
+                <td><strong>Author Registration</strong></td>
+                <td><center>included</center></td>
+                <td><center>included</center></td>
+                <td><center>included</center></td>
+                <td><center>1 slot per accepted paper</center></td>
+                
             </tr>
             <tr>
-                <td>Full Time Student</td>
-                <td> <center>Free</center></td>
-                <td> <center>Free</center></td>
+                <td><strong>Regular Registration</center></strong></td>
+                <td><center>included</center></td>
+                <td><center>self-arranged</center></td>
+                <td><center>Optional (600,000 VND)</center></td>
+                <td><center>Limited slots, priority to accepted paper teams</center></td>
+                
             </tr>
         </tbody>
     </table>
-	<h3>Transaction Instructions: TBD</h3>
-    <h3>Important information:</h3>
-    <ul>
-<li>-At least one author of each accepted paper must register and pay full registration fee before 20 Jul 2025.</li>
-<li>-All registrations associated with accepted papers should be made before 20 Jul 2025.</li>
-<li>-If you have more than one accepted paper, you have to register for each one individually.</li>
-<li>-The registration fee includes admission to all conference sessions, conference proceedings, coffee break refreshments, lunches and gala dinner.</li>
-<li>-Fees cannot be refunded for registrations canceled.</li>
-
-      </ul>
-
-    <h3>Financial support:</h3>
-    <p>-Authors with papers conducted in Vietnamese universities can apply for financial support by sending an email to <a href="mailto:cosmoslabvn@gmail.com">cosmoslabvn@gmail.com</a> from the email used in paper submission. The email must include paper ID, paper title, and author’s affiliation.</p>
-    <p>-We also have some limited support for non-authors from Vietnamese universities (especially students). Email to <a href="mailto:cosmoslabvn@gmail.com">cosmoslabvn@gmail.com</a> for more details.</p>
-
-
   
   </div>
   
